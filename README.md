@@ -7,6 +7,6 @@ You are given a chunk of text. Gather all capital letters in one word in the ord
 For example: text = " How are you? Eh, ok. Low or Lower? Ohhh.", 
 if we collect all of the capital letters, we get the message "HELLO".
 
-Write your answer in your_answer.py
+## Write your answer in your_answer.py
 
 from: https://py.checkio.org/mission/secret-message
